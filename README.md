@@ -8,5 +8,7 @@ Make sure you have Yahoo Finance API installed. Run the script and change the st
 
 # Example
 
-Google: 
+Google:
+
+<img width="1006" alt="image" src="https://github.com/jashparekh1/StockPricePrediction/assets/90473123/12e43907-4f30-4523-b7ea-54ef69a7b472">
 
