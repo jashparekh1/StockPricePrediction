@@ -4,7 +4,7 @@ This project utilizes LSTM (Long Short-Term Memory) neural networks to predict s
 
 # Usage
 
-Make sure you have Yahoo Finance API installed. Run the script and change the stock_symbol variable to any stock who's price you would like to predict. At the end, the model will print out a plot comparing the actual vs. predicted prices.
+Make sure you have Yahoo Finance API installed. Run the script and change the stock_symbol variable to any stock who's price you would like to predict. After the model has finished training, it will print out a plot comparing the actual vs. predicted prices.
 
 # Example
 
